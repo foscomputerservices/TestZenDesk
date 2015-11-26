@@ -1,0 +1,17 @@
+PODS:
+  - ZendeskSDK (1.5.2.1):
+    - ZendeskSDK/Core (= 1.5.2.1)
+    - ZendeskSDK/Localization (= 1.5.2.1)
+    - ZendeskSDK/Providers (= 1.5.2.1)
+  - ZendeskSDK/Core (1.5.2.1)
+  - ZendeskSDK/Localization (1.5.2.1):
+    - ZendeskSDK/Core
+  - ZendeskSDK/Providers (1.5.2.1)
+
+DEPENDENCIES:
+  - ZendeskSDK (= 1.5.2.1)
+
+SPEC CHECKSUMS:
+  ZendeskSDK: 22cbb79ebb0f9b7b79a9d143b2c0ebcab3f42bb8
+
+COCOAPODS: 0.39.0
